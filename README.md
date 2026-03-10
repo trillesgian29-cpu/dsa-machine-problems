@@ -101,7 +101,7 @@ Implemented classic searching techniques:
 
 ---
 
-### 🔹 [Link_List_MP4](./linkList_mp4) — Linked List Implementations
+### 🔹 [Link_List_MP4](./linkedList_mp4) — Linked List Implementations
 
 Implemented fundamental linked list structures:
 
