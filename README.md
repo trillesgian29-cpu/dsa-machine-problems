@@ -52,7 +52,9 @@ By simulating the faulty machine scenario, we demonstrate how core DSA technique
 
 ## 📂 Repository Contents
 
-### 🔹 **Sorting_MP1** — Classic Sorting Algorithms
+
+
+### 🔹 [Sorting_MP1](./sorting_mp1) — Classic Sorting Algorithms
 
 Implemented and analyzed fundamental sorting algorithms:
 
