@@ -73,7 +73,7 @@ Implemented and analyzed fundamental sorting algorithms:
 
 ---
 
-### 🔹 **Arrays_MP2** — Array Problem Solving
+### 🔹 [Arrays_MP2](./arrays_mp2) — Array Problem Solving
 
 Solved computational problems using:
 - **1D Arrays** — Linear data storage and manipulation
@@ -85,7 +85,7 @@ Solved computational problems using:
 
 ---
 
-### 🔹 **Sorting_MP3** — Searching Algorithms
+### 🔹 [Searching_MP3](./searching_mp3) — Searching Algorithms
 
 Implemented classic searching techniques:
 
@@ -101,7 +101,7 @@ Implemented classic searching techniques:
 
 ---
 
-### 🔹 **LinkedLists_MP4** — Linked List Implementations
+### 🔹 [Link List_MP4](./linkList_mp4) — Linked List Implementations
 
 Implemented fundamental linked list structures:
 
